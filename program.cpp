@@ -1,11 +1,14 @@
 #include<iostream>
 using namespace std;
 
-int()
-  {
-long i=400;
+int main()
+{
+int a=12,b=3;
 
-cout<<size if(i)<<"\n";
+cout<<a+b<<"\n";
+cout<<a-b<<"\n";
+cout<<a*b<<"\n";
+cout<<a/b<<"\n";
 
-return o;
+return 0;
 }
